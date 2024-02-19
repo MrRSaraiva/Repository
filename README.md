@@ -8,7 +8,6 @@ Completion Date:
 05 Jan 2024  --->  Basic Average Calculator                 (One of my first programs)
 
 12 Jan 2024  --->  Defensive Programming - Error Handling - Intentional Errors
-
                    Defensive Programming - Error Handling - Logical Error
 
 16 Jan 2024  --->  Capstone Project - Finance Calculators  (Variables and Control Structures)
