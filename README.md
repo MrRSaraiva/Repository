@@ -1,4 +1,4 @@
-These are some programs created during my Data Science course. More will be uploaded over time.
+These are some programs and exercises created during my Data Science course. More will be uploaded over time.
 
 
 Completion Date:
@@ -18,3 +18,5 @@ Completion Date:
 28 Jan 2024  --->  Data Structures - Lists and Dictionaries
 
 18 Feb 2024  --->  User-defined Functions
+
+20 Feb 2024  --->  Data Analysis - Exercise Sample
