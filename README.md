@@ -19,4 +19,6 @@ Completion Date:
 
 18 Feb 2024  --->  User-defined Functions
 
-20 Feb 2024  --->  Data Analysis - Exercise Sample
+20 Feb 2024  --->  Data Visualisation - Exercise Sample
+
+21 Feb 2024  --->  Data Visualisation - Exercise Sample 2
