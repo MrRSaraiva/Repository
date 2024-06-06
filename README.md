@@ -22,3 +22,5 @@ Completion Date:
 20 Feb 2024  --->  Data Visualisation - Exercise Sample
 
 21 Feb 2024  --->  Data Visualisation - Exercise Sample 2
+
+31 Mar 2024 --->  Capstone Project - Sentiment Analysis
